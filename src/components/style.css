@@ -1,0 +1,38 @@
+.header{
+    height: 50px;
+    background-color: rgb(212, 178, 91);
+    text-align: right;
+}
+.product{
+    border: 1px solid lightgray;
+    padding: 20px;
+}
+.product img{
+    width: 190px;
+}
+.product button{
+    border:none; 
+    border-radius: 3px;
+    background-color: darkgreen;
+    color: white;
+    padding:  2px 5px;
+}
+b{
+    color:rgb(86, 85, 85);
+    font-size: 20px;
+    padding: 5px;
+}
+.show{
+    border:1px lightgray solid;
+    border-radius: 10px;
+    background-color: rgb(212, 178, 91); 
+    color:white;
+    padding:10px;
+}
+.none{
+    display: none;
+}
+ul{
+    list-style-type: none;
+    padding: 10px;
+}

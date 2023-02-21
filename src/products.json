@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "pierre",
+        "price": 40,
+        "img": "https://as1.ftcdn.net/v2/jpg/03/13/95/44/1000_F_313954463_a6GewNgVa2waBZWH36gq1jrTF3xrxSGO.jpg"
+    },
+    {
+        "id": 2,
+        "name": "E l classiko",
+        "price": 40,
+        "img": "https://t3.ftcdn.net/jpg/02/77/57/08/240_F_277570866_4paYMmM6jGZC70J4wJhRNlML3JzRWJKQ.jpg"
+    },
+    {
+        "id": 3,
+        "name": "sonta",
+        "price": 40,
+        "img": "https://as1.ftcdn.net/v2/jpg/03/13/95/44/1000_F_313954463_a6GewNgVa2waBZWH36gq1jrTF3xrxSGO.jpg"
+    }
+]
